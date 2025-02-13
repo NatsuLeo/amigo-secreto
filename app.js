@@ -31,4 +31,5 @@ function sortearAmigo(){
 
 function limpiarCaja(){
     document.querySelector('#amigo').value = '';
+    //aaaaaa
 }
